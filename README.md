@@ -164,6 +164,36 @@ Seorang **Software Engineer** berpengalaman dengan 8+ tahun expertise di bidang 
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">💬 Support Center Waha</h3>
+      <div align="center">
+        <a href="https://github.com/edwinfebrianto44-gif/support-center-waha" target="_blank">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        </a>
+        <p><strong>Support Center & Customer Service</strong></p>
+        <p>🎯 Sistem pusat bantuan dan layanan pelanggan terintegrasi dengan WhatsApp Business API</p>
+        <a href="https://github.com/edwinfebrianto44-gif/support-center-waha" target="_blank">
+          <img src="https://img.shields.io/badge/Lihat%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Realtime Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/edwinfebrianto44-gif/realtime-dashboard-vue-sakai" target="_blank">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+          <img src="https://img.shields.io/badge/Sakai-FF4154?style=for-the-badge&logo=vue.js&logoColor=white" alt="Sakai"/>
+        </a>
+        <p><strong>Dashboard Analytics Real-time</strong></p>
+        <p>📈 Dashboard modern dengan update data real-time menggunakan Vue.js dan template Sakai</p>
+        <a href="https://github.com/edwinfebrianto44-gif/realtime-dashboard-vue-sakai" target="_blank">
+          <img src="https://img.shields.io/badge/Lihat%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🌐 Go-Vue BlogCMS</h3>
       <div align="center">
         <a href="https://github.com/edwinfebrianto44-gif/go-vue-blogcms" target="_blank">
